@@ -1,0 +1,25 @@
+# Environment variables and secrets
+.env
+*.env
+credentials.json
+*.key
+*.pem
+*.crt
+
+# Ignore virtual environment folders
+/env/
+venv/
+.env/
+
+# OS-specific files
+.DS_Store
+
+# Python cache and logs
+*.log
+*.pyc
+__pycache__/
+**/__pycache__/
+
+# IDE/editor folders
+.idea/
+.vscode/
