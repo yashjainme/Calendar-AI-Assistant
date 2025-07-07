@@ -22,7 +22,7 @@ This project is a full-stack conversational AI assistant that helps users book a
 │ └── streamlit_app.py # Streamlit chat frontend
 ├── agent/
 │ └── agent.py # Langchain agent logic and tool definitions
-├── calendar/
+├── calendar_utils/
 │ └── google_calendar.py # Google Calendar API integration functions
 ├── .env.example # Example environment variables file
 ├── credentials.json # Placeholder for your Google Service Account key
